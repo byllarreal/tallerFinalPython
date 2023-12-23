@@ -1,0 +1,36 @@
+<Ejercicios>
+    <EJERCICIOS_FINALES>
+        <ejercicio num="1" nom="Software educativo universitario">
+            <enun>
+                Están realizando un software educativo universitario en donde se necesita que cuando el usuario ingrese la nota (del 0 hasta el 5,0):
+                - Si es de 0 hasta 0,9, entonces perdió la materia sin poder recuperar y se muestra el mensaje: "Perdida la materia en (pone la nota) sin tener recuperación."
+                - Si es de 1,0 hasta 2,5, entonces perdió la materia, pero puede recuperar. Si saca la nota máxima en la habilitación que es 5,0 en la recuperación, su nota final es 3.0 con un mensaje "Perdido la materia en (pone la nota) pero se puede nivelar máximo nota final 3.0."
+                - Si es de 2,6 hasta 2,9, se puede recuperar. Si saca la nota máxima en la habilitación que es 5,0 en la recuperación, su nota final es 3.5 con un mensaje "Perdido la materia en: (pone la nota) pero se puede nivelar máximo nota final 3.5."
+                - Si ya es de 3.0 a 3.5 pero nivelado, el mensaje es "Aceptable: (Pone la nota) por recuperación."
+                - Si es de 3.0 hasta 3.9 sin recuperación, el mensaje es "Aceptable: (Pone la nota), te recomiendo que sigas mejorando, vas bien."
+                - Si es de 4.0 hasta 4.5, el mensaje es "Excelente: (Pone la nota), vas por un buen camino hacia el éxito."
+                - Si es de 4.5 hasta 5.0, el mensaje es "Científico: (Pone la nota), tienes un gran futuro adelante."                
+            </enun>
+        </ejercicio>
+        <ejercicio num="2" nom="Detectar número primo, par o impar">
+            <enun>
+                Realiza un software en donde detecte si es número primo y también si es número par o impar dependiendo el caso. Le indica al usuario por qué ese número es primo y par o impar (dependiendo del caso) al mismo tiempo.
+            </enun>
+        </ejercicio>
+        <ejercicio num="3" nom="Software de reloj">
+            <enun>
+                Software de reloj que muestre horas, minutos y segundos.
+            </enun>
+        </ejercicio>
+        <ejercicio num="4" nom="Software de nómina">
+            <enun>
+                Software de nómina que calcule cuánto le vale a una empresa cada uno de sus empleados dependiendo de sus sueldos (mínimo 2 empleados, uno con 1 salario mínimo y el otro con 2 salarios mínimos). Nómina desde el punto de vista de la empresa y no del empleado.
+            </enun>
+        </ejercicio>
+        <ejercicio num="5" nom="Software de restaurante">
+            <enun>
+                Software de restaurante en donde, dependiendo de la comida que pida el cliente, se le da el precio y la descripción de lo que pidió.
+            </enun>
+        </ejercicio>        
+    </EJERCICIOS_FINALES>
+</Ejercicios>

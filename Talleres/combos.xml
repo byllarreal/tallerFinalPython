@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ejercicios>
+    <MENU_COMBOS>
+        <ejercicio num="1" nom="Combo César">
+            <enun precio="35000">
+                - Entrada: Ensalada César
+                - Plato principal: Filete de salmón al horno con puré de papas
+                - Postre: Tiramisú
+                Precio: $35.000                
+            </enun>
+        </ejercicio>
+        <ejercicio num="2" nom="Combo Bruschetta">
+            <enun precio="32200">
+                - Entrada: Bruschetta de tomate y albahaca
+                - Plato principal: Risotto de champiñones
+                - Postre: Panna Cotta con frutas frescas                
+                Precio: $32.200
+            </enun>
+        </ejercicio>
+        <ejercicio num="3" nom="Combo Calamares">
+            <enun precio="28000">
+                - Entrada: Calamares a la romana
+                - Plato principal: Paella mixta
+                - Postre: Flan de vainilla                
+                Precio: $28.000
+            </enun>
+        </ejercicio>
+        <ejercicio num="4" nom="Combo Sopa">
+            <enun precio="29000">
+                - Entrada: Sopa de tomate y albahaca
+                - Plato principal: Pollo al curry con arroz basmati
+                - Postre: Helado de chocolate y vainilla                
+                Precio: $29.000
+            </enun>
+        </ejercicio>
+        <ejercicio num="5" nom="Salir">            
+        </ejercicio>
+
+    </MENU_COMBOS>
+</Ejercicios>
+
+

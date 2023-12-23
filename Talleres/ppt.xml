@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ejercicios>
+    <Talleres>
+        <taller num='1' nom='Piedra'></taller>
+        <taller num='2' nom='Papel'></taller>
+        <taller num='3' nom='Tijeras'></taller>        
+        <taller num='4' nom='Terminar'></taller>
+    </Talleres>
+</Ejercicios>

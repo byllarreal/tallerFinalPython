@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ejercicios>
+    <EJERCICIOS_DE_DECISIONES>
+        <ejercicio num="1" nom="Detectar número par y múltiplo de 6">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es número par y validar que es múltiplo de 6.</enun>
+        </ejercicio>
+        <ejercicio num="2" nom="Detectar número impar y múltiplo de 5">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es número impar y validar que es múltiplo de 5.</enun>
+        </ejercicio>
+        <ejercicio num="3" nom="Detectar número entero, no irracionales">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es un número entero, no están permitidos números irracionales.</enun>
+        </ejercicio>
+        <ejercicio num="4" nom="Detectar número negativo y par">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es un número negativo y par.</enun>
+        </ejercicio>
+        <ejercicio num="5" nom="Detectar múltiplo de 3 y también par">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es múltiplo de 3 y también par.</enun>
+        </ejercicio>
+        <ejercicio num="6" nom="Detectar múltiplo de 7 y también par">
+            <enun>Realizar un software que detecte si el número ingresado por el usuario es múltiplo de 7 y también par.</enun>
+        </ejercicio>
+        <ejercicio num="7" nom="Juego de piedra, papel o tijera">
+            <enun>Realizar un software que detecte el juego de piedra, papel o tijera con cada uno de sus juegos y determine un ganador y perdedor.</enun>
+        </ejercicio>
+        <ejercicio num="8" nom="Menú combos en un restaurante">
+            <enun>Realizar un software que represente un menú de combos en un restaurante con cada uno de sus contenidos. Ejemplo: 1. Combo de hamburguesas de carne al horno con jugo de coco; mostrar la información del combo seleccionado por el usuario.</enun>
+        </ejercicio>
+        <ejercicio num="9" nom="Selección de menú en restaurante">
+            <enun>En un restaurante, los clientes pueden pedir menú de carne, pescado o ensalada. Si piden carne se les ofrecerá como bebida vino tinto, si piden pescado se les ofrecerá vino blanco y si piden ensalada se les ofrecerá agua. Si no eligen un menú de la lista, aparecerá la frase: "Elija carne, pescado o ensalada."</enun>
+        </ejercicio>
+        <ejercicio num="10" nom="Acceso a salas de juegos">
+            <enun>En una sala de juegos existen 4 salas: Consolas, Juegos 2D, Juegos 3D, Realidad Virtual. Si un usuario paga 4 créditos, puede acceder a todas; si paga 3, solo podrá acceder a las tres primeras; si paga 2, a las dos primeras; y si paga 1, solo a la primera sala.</enun>
+        </ejercicio>
+        <ejercicio num="11" nom="Salir">
+            <enun></enun>
+        </ejercicio>
+    </EJERCICIOS_DE_DECISIONES>
+</Ejercicios>
+

@@ -1,0 +1,10 @@
+<PLAY_GAMER>
+    <gamer cod="001" email="fulano@gmail.com" password="xxx">
+        <cedula>123456789</cedula>
+        <nombre>Fulano de Tal</nombre>
+        <accesos>
+            <sala> 1.Consola</sala>   
+        <sala id="2">2.Juegos 2D</sala><sala id="3">3.Juegos 3D</sala><sala id="4">4.Realidad Virtual</sala></accesos>     
+        <creditos>4</creditos>
+    </gamer>
+</PLAY_GAMER>

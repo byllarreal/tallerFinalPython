@@ -1,0 +1,37 @@
+<Ejercicios>
+    <EJERCICIOS_DE_CICLOS>
+        <ejercicio num="1" nom="Tabla de multiplicar">
+            <enun>Software que es una Tabla de multiplicar a partir de lo que le digite el numero. Ejemplo: si digita el 2, entonces le muestra el programa la tabla del 2 desde el 1 hasta el10.</enun>
+        </ejercicio>
+        <ejercicio num="2" nom="Número positivo">
+            <enun>Validar que un usuario ingrese un número positivo (mayor que cero).</enun>
+        </ejercicio>
+        <ejercicio num="3" nom="Número positivo de 3 cifras">
+            <enun>Algoritmo que valide que un usuario ingrese un número positivo de 3 cifras.</enun>
+        </ejercicio>
+        <ejercicio num="4" nom="Número perfecto">
+            <enun>Realice un algoritmo que permita leer un número positivo. Luego indique si es un número perfecto. Nota: Un número es perfecto si la suma de sus divisores (sin incluir al mismo número) resulta igual a sí mismo. Ejemplo: 6 es perfecto debido a que 6 = 1 + 2 + 3.</enun>
+        </ejercicio>
+        <ejercicio num="5" nom="Repetir palabra">
+            <enun>Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.</enun>
+        </ejercicio>
+        <ejercicio num="6" nom="Años cumplidos">
+            <enun>Escribir un programa que pregunte al usuario su edad y muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).</enun>
+        </ejercicio>
+        <ejercicio num="7" nom="Tabla de multiplicar del 1 al 10">
+            <enun>Escribir un programa que muestre por pantalla la tabla de multiplicar del 1 al 10.</enun>
+        </ejercicio>
+        <ejercicio num="8" nom="Conteo regresivo">
+            <enun>Hacer un conteo regresivo desde hora, minuto y segundos.</enun>
+        </ejercicio>
+        <ejercicio num="9" nom="Triángulo rectángulo">
+            <enun>Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo.</enun>
+        </ejercicio>
+        <ejercicio num="10" nom="Triángulo rectángulo con altura variable">
+            <enun>Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo de altura igual al número introducido.</enun>
+        </ejercicio>
+        <ejercicio num="11" nom="Salir">
+            <enun></enun>
+        </ejercicio>
+    </EJERCICIOS_DE_CICLOS>
+</Ejercicios>
